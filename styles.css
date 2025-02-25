@@ -11129,8 +11129,9 @@ header.masthead h1, header.masthead .h1 {
 
 .region:hover {
   fill: #ffcc00;
-  transform: scale(1.1);
+  color: white;
   cursor: pointer;
+  
 }
 
 .ntumap{
